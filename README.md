@@ -26,13 +26,13 @@ The primary incentive of this research is to:
 * Fit and evaluate the Training Model
 * Evaluate the Test Model
 * Make logical comparisons on the actual vs predicted estimations.
-* 
-</br>
+
+</br></br>
 
 ### ◘ Model Summary
 ![alt text](https://github.com/shahriar-rahman/Google-Stock-Market-Prediction-using-LSTM/blob/main/img/model_summary.JPG)
 
-</br>
+</br></br>
 
 ### ◘ Approach
 This study is partitioned into x Steps:
@@ -63,5 +63,59 @@ Root Mean Squared Error (RMSE)
 ![alt text](https://github.com/shahriar-rahman/Google-Stock-Market-Prediction-using-LSTM/blob/main/graphs/Google_stock_prediction.png)
 
 <br/><br/>
+
+### ◘ Library Installation (using pip)
+In order to *install* the required packages on the local machine, Open pip and run the following commands separately:
+```
+> pip install tensorflow                    
+
+> pip install keras     
+
+> pip install pandas                                                          
+
+> pip install scikit-learn                                      
+
+> pip install matplotlib
+
+> pip install numpy
+
+> pip install joblib                                  
+```
+
+<br/><br/>
+
+
+### ◘ Supplementary Resources
+For more details, visit the following links:
+* https://pypi.org/project/tensorflow/
+* https://pypi.org/project/keras/
+* https://pypi.org/project/pandas/
+* https://pypi.org/project/scikit-learn/
+* https://pypi.org/project/matplotlib/
+* https://pypi.org/project/numpy/
+* https://pypi.org/project/joblib/
+
+<br/><br/>
+
+### ◘ MIT License
+Copyright (c) 2023 Shahriar Rahman
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
 
 ===========================================================================
