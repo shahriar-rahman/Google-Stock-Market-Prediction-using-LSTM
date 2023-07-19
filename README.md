@@ -51,6 +51,7 @@ This study is partitioned into x Steps:
 ### ◘ LSTM Networks
 ![alt text](https://github.com/shahriar-rahman/Google-Stock-Market-Prediction-using-LSTM/blob/main/img/LSTM%20model.png)
 
+</br></br>
 
 ### ◘ Model Evaluation based on the data type
 Root Mean Squared Error (RMSE)
