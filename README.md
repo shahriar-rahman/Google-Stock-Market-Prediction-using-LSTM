@@ -64,6 +64,43 @@ Root Mean Squared Error (RMSE)
 
 <br/><br/>
 
+### ◘ Project Organization
+------------
+    ├─-- LICENSE                # MIT License
+    |
+    ├─-- README.md              # The top-level README for developers using this project
+    |
+    ├─-- dataset                # Contains different type of dataset (e.g. train and test)
+    |    └──  processed        
+    |    └──  raw
+    |
+    |
+    ├─-- models                 # Trained and serialized models for future model predictions  
+    |    └── lstm.pkl
+    |
+    |
+    ├─ graphs                    # Generated graphics and figures obtained from visualization.py
+    |
+    |
+    ├─-- img                    # Project related files
+    |
+    ├─-- requirements.txt       # The requirements file for reproducing the analysis environments
+    |                         
+    |
+    ├─-- src                    # Source code for use in this research
+    |   └───-- __init__.py    
+    |   |
+    |   ├─-- models                # Contains py filess for Stock Market Price Prediction          
+    |   |   └─── google_stock_lstm.py
+    |   | 
+    |   |
+    |   └───-- visualization        # Construct visualizations to identify, evaluate, and compare predicted and actual results
+    |       └───-- visualize.py
+    |
+    ├─
+--------
+
+
 ### ◘ Library Installation (using pip)
 In order to *install* the required packages on the local machine, Open pip and run the following commands separately:
 ```
