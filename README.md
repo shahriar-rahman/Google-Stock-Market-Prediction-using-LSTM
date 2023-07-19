@@ -1,1 +1,1 @@
-# Google-Stock-Market-Prediction-using-LSTM
+# Prediction of Google Stock Market using LSTM
