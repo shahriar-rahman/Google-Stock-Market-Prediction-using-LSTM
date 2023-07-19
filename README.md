@@ -22,8 +22,13 @@ The primary incentive of this research is to:
 * Fit and evaluate the Training Model
 * Evaluate the Test Model
 * Make logical comparisons on the actual vs predicted estimations.
+* 
+</br>
 
-</br></br>
+### ◘ Model Summary
+![alt text](https://github.com/shahriar-rahman/Google-Stock-Market-Prediction-using-LSTM/blob/main/img/model_summary.JPG)
+
+</br>
 
 ### ◘ Approach
 This study is partitioned into x Steps:
@@ -39,6 +44,8 @@ This study is partitioned into x Steps:
 
 </br></br>
 
+### ◘ LSTM Networks
+![alt text](https://github.com/shahriar-rahman/Google-Stock-Market-Prediction-using-LSTM/blob/main/img/LSTM%20model.png)
 
 
 ===========================================================================
