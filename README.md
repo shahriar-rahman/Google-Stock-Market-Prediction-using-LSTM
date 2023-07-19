@@ -57,7 +57,9 @@ Root Mean Squared Error (RMSE)
 | **Training Set** | **Test Set** | 
 |--|--|
 | 0.028 | 0.023 |
+
 </br>
+
 ![alt text](https://github.com/shahriar-rahman/Google-Stock-Market-Prediction-using-LSTM/blob/main/graphs/Google_stock_prediction.png)
 
 <br/><br/>
