@@ -92,14 +92,15 @@ Root Mean Squared Error (RMSE)
     |   |
     |   ├─-- models                # Contains py filess for Stock Market Price Prediction          
     |   |   └─── google_stock_lstm.py
-    |   | 
+    |   |
     |   |
     |   └───-- visualization        # Construct visualizations to identify, evaluate, and compare predicted and actual results
     |       └───-- visualize.py
     |
     ├─
---------
-
+--------   
+    
+</br></br>
 
 ### ◘ Library Installation (using pip)
 In order to *install* the required packages on the local machine, Open pip and run the following commands separately:
